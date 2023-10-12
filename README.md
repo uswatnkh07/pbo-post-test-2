@@ -106,20 +106,21 @@ Ini adalah deklarasi kelas utama, yaitu Transaction. Kelas ini bertanggung jawab
 ![image](https://github.com/uswatnkh07/pbo-post-test-2/assets/115265157/b02325c8-2076-43da-8e9b-166b88a253c0)
 
 Di sini, kita mendeklarasikan dua field (variabel anggota) yang merupakan atribut dari transaksi:
+-Type adalah jenis transaksi (misalnya, "Income" atau "Expense").
+-Amount adalah jumlah transaksi (sebagai bilangan desimal).
+Field ini dideklarasikan sebagai final, yang berarti mereka tidak dapat diubah setelah diinisialisasi dalam konstruktor.
 
 ![image](https://github.com/uswatnkh07/pbo-post-test-2/assets/115265157/d082d160-98c0-4175-b21d-3399dbe2c899)
 
-Type adalah jenis transaksi (misalnya, "Income" atau "Expense").
-Amount adalah jumlah transaksi (sebagai bilangan desimal).
-Field ini dideklarasikan sebagai final, yang berarti mereka tidak dapat diubah setelah diinisialisasi dalam konstruktor.
+Ini adalah konstruktor kelas Transaction. Ketika objek Transaction dibuat, konstruktor ini dijalankan. Konstruktor ini menerima dua argumen, yaitu type dan amount, yang digunakan untuk menginisialisasi Type dan Amount sesuai dengan nilai yang diberikan.
+
 
 ![image](https://github.com/uswatnkh07/pbo-post-test-2/assets/115265157/a9b371bb-6794-48a7-985e-a80dd725c444)
 
-Ini adalah konstruktor kelas Transaction. Ketika objek Transaction dibuat, konstruktor ini dijalankan. Konstruktor ini menerima dua argumen, yaitu type dan amount, yang digunakan untuk menginisialisasi Type dan Amount sesuai dengan nilai yang diberikan.
+Ini adalah metode getter yang digunakan untuk mengakses nilai dari field Type dan Amount. Metode getType() mengembalikan jenis transaksi, dan metode getAmount() mengembalikan jumlah transaksi.
+
 
 ![image](https://github.com/uswatnkh07/pbo-post-test-2/assets/115265157/1916b8a2-0a8a-497a-ad63-c24f7cdc501a)
-
-Ini adalah metode getter yang digunakan untuk mengakses nilai dari field Type dan Amount. Metode getType() mengembalikan jenis transaksi, dan metode getAmount() mengembalikan jumlah transaksi.
 
 Di sini, ada dua metode setter yang sebenarnya hanya menghasilkan pengecualian (exception). Ini mungkin adalah implementasi sementara atau dummy, yang tidak mengizinkan perubahan nilai Type dan Amount setelah objek transaksi dibuat. Biasanya, Anda akan ingin mengganti implementasi ini untuk memungkinkan pengguna mengubah nilai Type dan Amount objek transaksi jika diperlukan.
 
