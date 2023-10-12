@@ -288,6 +288,7 @@ Jika sukses maka:
 
    
 6. Percobaan Menu Delete
+
    
    ![image](https://github.com/uswatnkh07/pbo-post-test-2/assets/115265157/4911d052-298f-4939-ae68-6df64bb74c03)
 
