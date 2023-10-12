@@ -23,6 +23,7 @@ Baik disini saya membuat sebuah project bernama postes di java dengan dua packeg
 
 
 ## Penjelasan Packege Utama Beserta Dengan Classnya
+
 ![image](https://github.com/uswatnkh07/pbo-post-test-2/assets/115265157/9c268405-475b-4e12-a8b6-d0ff3018a42c)
 Ini adalah deklarasi package. Ini memberi tahu Java di mana kelas ini akan ditemukan di dalam package com.mycompany.postes2.
 
