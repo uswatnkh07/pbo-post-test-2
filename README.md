@@ -295,23 +295,21 @@ Jika sukses maka:
 
 8. Percobaan Menu Update
    - Sebelum DiUpdate
-     ![image](https://github.com/uswatnkh07/pbo-post-test-2/assets/115265157/aa5f205f-6042-4d5c-8540-c7ffaaf71b94)
+
+![image](https://github.com/uswatnkh07/pbo-post-test-2/assets/115265157/aa5f205f-6042-4d5c-8540-c7ffaaf71b94)
 
 
    - Proses Atau Pilihan Update
-     ![image](https://github.com/uswatnkh07/pbo-post-test-2/assets/115265157/ee809ff3-bcbc-484b-b1eb-ac05a67efcd6)
+
+![image](https://github.com/uswatnkh07/pbo-post-test-2/assets/115265157/ee809ff3-bcbc-484b-b1eb-ac05a67efcd6)
 
      
    - Setelah Di Update
-     ![image](https://github.com/uswatnkh07/pbo-post-test-2/assets/115265157/11594981-1db3-42fd-b864-9ddd79594812)
 
-
-
-
-
-   
+![image](https://github.com/uswatnkh07/pbo-post-test-2/assets/115265157/11594981-1db3-42fd-b864-9ddd79594812)
 
 
 ## Kesimpulan
+Jadi, terlihat bahwa program ini berjalan sebagaimana mestinya sesuai dengan kemauan saya sebagai programmer. Semua berjalan dengan baik. Maka, dengan adanya sisitem ini saya dapat meminimalisir diri saya agar tidak boros lagi.
 
 
