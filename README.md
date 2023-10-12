@@ -19,6 +19,7 @@ Baik disini saya membuat sebuah project bernama postes di java dengan dua packeg
 
 ## Struktur Direktori Program
 ![image](https://github.com/uswatnkh07/pbo-post-test-2/assets/115265157/f13989da-286b-4bf0-af4b-2bb7ed87a703)
+![image](https://github.com/uswatnkh07/pbo-post-test-2/assets/115265157/70f00d05-47e2-46f7-aca4-e2e171164e6d)
 
 
 ## Penjelasan Packege Utama Beserta Dengan Classnya
@@ -260,6 +261,33 @@ public class Transaction {
 }
 
 ## Output Program
+1. Tampilan Awal
+![image](https://github.com/uswatnkh07/pbo-post-test-2/assets/115265157/4bb08022-a176-4240-b857-0f96f9c15d1e)
+
+
+3. Percoban Menu Creat
+![image](https://github.com/uswatnkh07/pbo-post-test-2/assets/115265157/81ab1c74-0fad-4afb-9b7c-48ab1aaee6b2)
+
+Jika sukses maka:
+![image](https://github.com/uswatnkh07/pbo-post-test-2/assets/115265157/7d50cf3c-be09-437d-ab7e-b2bdc46f7053)
+
+4. Percobaan Menu Read
+   - Sebelum Data Di Add
+     ![image](https://github.com/uswatnkh07/pbo-post-test-2/assets/115265157/9d84c9f6-a8db-4b61-b72b-66b73b8c2be5)
+
+    - Setelah Data Di Add
+      ![image](https://github.com/uswatnkh07/pbo-post-test-2/assets/115265157/c8644363-e817-4d4f-9a2f-9c9372b39f32)
+   
+6. Percobaan Menu Delete
+   ![image](https://github.com/uswatnkh07/pbo-post-test-2/assets/115265157/4911d052-298f-4939-ae68-6df64bb74c03)
+
+7. Percobaan Menu Update
+   
+
+
+
+   
+
 
 ## Kesimpulan
 
